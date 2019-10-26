@@ -1,6 +1,3 @@
 # TestGitTest2Public
 Un test public
-
-ULTIME patate 2
-
-ou pas
+ou pas patiti
